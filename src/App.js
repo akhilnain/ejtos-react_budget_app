@@ -9,6 +9,9 @@ import Spent from './components/Spent';
 import ExpenseList from './components/ExpenseList';
 import AllocationForm from './components/AllocationForm';
 import Currencies from './components/Currencies';
+import ExpenseTotal from './components/ExpenseTotal';
+import ExpenseList from './components/ExpenseList';
+
 
 const App = () => {
     return (
